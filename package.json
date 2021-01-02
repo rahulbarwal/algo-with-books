@@ -1,0 +1,11 @@
+{
+  "name": "algo-with-books",
+  "version": "1.0.0",
+  "description": "All the books samples and exercises are to be tried out in this repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Barwal",
+  "license": "ISC"
+}
