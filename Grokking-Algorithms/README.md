@@ -1,8 +1,8 @@
 - [x] Introduction to Algorithmsfree audio
 - [x] Selection Sort
 - [x] Recursion
-- [ ] Quicksort
-- [ ] Hash Tables
+- [x] Quicksort
+- [x] Hash Tables
 - [ ] Breadth-first Search
 - [ ] Dijkstra’s algorithm
 - [ ] Greedy algorithms
