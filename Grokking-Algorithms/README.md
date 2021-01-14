@@ -3,8 +3,8 @@
 - [x] Recursion
 - [x] Quicksort
 - [x] Hash Tables
-- [ ] Breadth-first Search
-- [ ] Dijkstra’s algorithm
+- [x] Breadth-first Search
+- [x] Dijkstra’s algorithm
 - [ ] Greedy algorithms
 - [ ] Dynamic programming
 - [ ] K-nearest neighbors
