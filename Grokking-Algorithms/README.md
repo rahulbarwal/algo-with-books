@@ -5,7 +5,7 @@
 - [x] Hash Tables
 - [x] Breadth-first Search
 - [x] Dijkstra’s algorithm
-- [ ] Greedy algorithms
+- [x] Greedy algorithms
 - [ ] Dynamic programming
 - [ ] K-nearest neighbors
 - [ ] Where to go next
