@@ -6,6 +6,6 @@
 - [x] Breadth-first Search
 - [x] Dijkstra’s algorithm
 - [x] Greedy algorithms
-- [ ] Dynamic programming
-- [ ] K-nearest neighbors
-- [ ] Where to go next
+- [x] Dynamic programming
+- [x] K-nearest neighbors
+- [x] Where to go next
