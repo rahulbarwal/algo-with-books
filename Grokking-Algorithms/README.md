@@ -1,0 +1,11 @@
+- [x] Introduction to Algorithmsfree audio
+- [x] Selection Sort
+- [x] Recursion
+- [x] Quicksort
+- [x] Hash Tables
+- [x] Breadth-first Search
+- [x] Dijkstra’s algorithm
+- [x] Greedy algorithms
+- [x] Dynamic programming
+- [x] K-nearest neighbors
+- [x] Where to go next
